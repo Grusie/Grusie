@@ -9,6 +9,6 @@
 <div>[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=grusie)](https://solved.ac/grusie)</div>
 <div>
 <p>🎵My SNS</p>
-<p><a href="https://www.instagram.com/grusie_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-
+<p><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-
  square&amp;logo=Instagram&amp;logoColor=white" /></a> <a href="https://acoustic-station-8c0.notion.site/09a3dd4d0ac449159cc17c1f5d52428b"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&amp;logo=Notion&amp;logoColor=white" /></p></a></p>
 </div>
