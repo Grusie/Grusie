@@ -4,11 +4,14 @@
 </div>
 <div>
 <p>🏆 My Stats</p>
-<p>[Grusie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grusie&show_icons=true&theme=highcontrast)</p>
-[Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=grusie&https://solved.ac/grusie)
+<p>
+  
+![Grusie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grusie&show_icons=true&theme=highcontrast)</p>
+
+![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=grusie)](https://solved.ac/grusie)  
+  
 </div>
 <div>
-<p>🎵My SNS</p> <a href="https://acoustic-station-8c0.notion.site/09a3dd4d0ac449159cc17c1f5d52428b"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&amp;logo=Notion&amp;logoColor=white" /></p></a></p>
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=grusie)](https://solved.ac/grusie)
+<p>🎵My SNS</p> <a href="https://acoustic-station-8c0.notion.site/09a3dd4d0ac449159cc17c1f5d52428b"><img src="https://img.shields.io/badge/Notion-black?style=flat-square&amp;logo=Notion&amp;logoColor=white" /></p></a>
+<a href="https://acoustic-station-8c0.notion.site/09a3dd4d0ac449159cc17c1f5d52428b"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white" /></p></a></p>
 </div>
