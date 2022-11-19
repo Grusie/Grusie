@@ -6,7 +6,7 @@
 <p>🏆 My Stats</p>
 <p>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=Grusie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Grusie)](https://github.com/ryo-ma/github-profile-trophy)
 ![Grusie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grusie&show_icons=true&theme=highcontrast)</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grusie&layout=compact&theme=tokyonight)
   
