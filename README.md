@@ -1,6 +1,6 @@
 <div>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Grusie's%20Profile&fontSize=70&fontColor=#ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Grusie's%20Profile&fontSize=70&fontColor=#ffffff)
   
   <h2> 💬 About Me </h2>
   <p> 
