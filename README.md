@@ -4,7 +4,7 @@
   
   <h2> 💬 About Me </h2>
   <p>
-    I wanna be Android developer<br>
+    I wanna be Android developer☺<br>
     I'm currently studing Android<br>
     I develop Android Application using AndroidStudio, Kotlin, Java
   </p>
