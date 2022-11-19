@@ -3,8 +3,10 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Grusie's%20Profile&fontSize=70&fontColor=#ffffff)
   
   <h2> 💬 About Me </h2>
-  <p> 
+  <p>
+    I wanna be Android developer
     I'm currently studing Android
+    I develop Android Application using Kotlin
   </p>
 <div>
   <h2>💻 My Stack</h2>
