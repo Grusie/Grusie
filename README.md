@@ -4,9 +4,9 @@
   
   <h2> 💬 About Me </h2>
   <p>
-    I wanna be Android developer☺<br>
-    I'm currently studing Android<br>
-    I develop Android Application using AndroidStudio, Kotlin, Java
+    꾸준히 기록하는 개발자 최규석입니다.☺<br>
+    저는 현재 안드로이드 개발자로 근무하고 있습니다.<br>
+    배움을 게을리 하지 않기 위해 노션 및 기술 블로그도 운영하고 있습니다.
   </p>
 <div>
   <h2>💻 My Stack</h2>
